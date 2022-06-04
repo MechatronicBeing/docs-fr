@@ -1,6 +1,7 @@
 Documentation française de MechatronicBeing.  
 Étudier, comprendre, concevoir, construire, développer, travailler, réparer et vivre avec les êtres mécatroniques.  
 Inclut du contenu gratuit, sous "domaine public" ou similaire.  
+[Retourner sur la page d'accueil du projet](https://mechatronicbeing.github.io/)
 
 ## C'est quoi un "être mécatronique" ?
 - **mécatronique** = Mécanique + Electronique + Logiciels informatique  + Systèmes de contrôles
