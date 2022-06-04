@@ -8,7 +8,7 @@ Inclut du contenu gratuit, sous "domaine public" ou similaire.
   - exemples : robots, machines industrielles
 - **être** = vivant, animé, intelligent, conscient, autonome, individu d'une espéce, organisme
   - exemples : humains, animaux, cerveaux vivants...
-  - contre-exemples : objets inertes ou "sans-cerveau"
+  - contre-exemples : objets inertes ou sans cerveau
     - matériaux (bois, metal, eau, gaz...)
     - partie d'un organisme (membres, torse...)
 - **être mécatronique** : une machine humaine qui possède une intelligence, qui peut se déplacer ou non
