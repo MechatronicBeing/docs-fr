@@ -6,7 +6,7 @@ Inclut du contenu gratuit, sous "domaine public" ou similaire.
 - **mécatronique** = Mécanique + Electronique + Logiciels informatique  + Systèmes de contrôles
   - sous-domaine : la robotique
   - exemples : robots, machines industrielles
-- **être** = vivant, animé, intelligent, conscient, autonome, individu, organisme
+- **être** = vivant, animé, intelligent, conscient, autonome, individu d'une espéce, organisme
   - exemples : humains, animaux, cerveaux vivants...
   - contre-exemples : objets inertes ou "sans-cerveau"
     - matériaux (bois, metal, eau, gaz...)
